@@ -34,4 +34,4 @@ client.on('message', message =>{
 });
 
 //Last Line
-client.login("ODMwNjY4MDY0NjI2MDQ5MDU0.YHKB6w.t67aRZwn7feC6eqwWkA-10ssUrU");
+client.login("Your Token Bot Code");
